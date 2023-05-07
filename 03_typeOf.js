@@ -1,0 +1,13 @@
+var bankName = "SBI Bank";
+console.log(bankName);
+console.log("type of var is:", typeof bankName);
+var marks = '90%';
+console.log("marks=",marks,",type of var is", typeof marks);
+var isWorking;
+console.log(typeof isWorking);
+var isWorking = true;
+console.log(typeof isWorking);
+var totalCount = "Hundred and Seven";
+console.log(totalCount,"," ,typeof totalCount);
+var totalCount = 107;
+console.log(totalCount,"," ,typeof totalCount);
