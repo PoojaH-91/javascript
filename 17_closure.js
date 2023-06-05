@@ -13,3 +13,6 @@ function outerFun(){
 }
 let inner = outerFun();
 inner();
+
+// or we can write like this outerFun() ();
+

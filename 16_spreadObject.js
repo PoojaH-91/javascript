@@ -62,9 +62,9 @@ console.log(element1, element2, num1, num2);
 console.log(`---------- Remove duplicate elements from array ---------------`);
 const arrayNum = [11, 3, 4, 11, 4, 7, 3]; 
 const setOfNum = [...new Set(arrayNum)];
-// for (const element of arrayNum) {
-//     setOfNum.add(element); 
-// }
+ //for (const element of arrayNum) {
+   //  setOfNum.add(element); 
+//}
 console.log(setOfNum);
 
 
